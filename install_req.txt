@@ -1,0 +1,5 @@
+install the following:
+Pillow
+django-countries
+six
+stripe
